@@ -90,8 +90,10 @@ I focus on **Web Development, Databases, and AI**. I love turning ideas into **c
 <!-- ====== Neon Divider ====== -->
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:39FF14,100:FF00FF&height=6&section=footer"/>
 
-## 🐍 Contributions Snake
-![Snake animation](https://raw.githubusercontent.com/azpradipta/azpradipta/output/snake.svg)
+## 🐍 Contributions Snake 
+
+![Snake animation](https://raw.githubusercontent.com/azpradipta/azpradipta/output/snake-neon.svg)
+
 
 <!-- ====== Neon Divider ====== -->
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00FFFF,100:FF00FF&height=6&section=footer"/>
