@@ -2,8 +2,12 @@ name: 🐍 Generate Snake (Neon)
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # jalan tiap hari jam 00:00 UTC
-  workflow_dispatch:        # bisa dijalankan manual lewat Actions
+    - cron: "0 0 * * *"        # tiap hari 00:00 UTC
+  workflow_dispatch:
+
+# <— penting: minta izin tulis ke repo
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,11 +20,11 @@ jobs:
           outputs: |
             dist/snake-neon.svg?color_snake=#00ffff&color_dots=#39ff14,#ff00ff,#8a2be2,#00ffff
 
-      - name: Push Snake to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   
