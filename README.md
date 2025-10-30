@@ -80,10 +80,14 @@ I focus on **Web Development, Databases, and AI**. I love turning ideas into **c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azpradipta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azpradipta&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF" height="160"/>
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=azpradipta&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" height="170" alt="stats" />
 
-<img src="https://streak-stats.demolab.com?user=azpradipta&theme=highcontrast&hide_border=true&background=00000000&ring=39FF14&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" height="190"/>
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azpradipta&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF" height="170" alt="top-langs" />
+
+ <img src="https://github-profile-trophy.vercel.app/?username=azpradipta&theme=matrix&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+
 
 </div>
 
@@ -91,23 +95,19 @@ I focus on **Web Development, Databases, and AI**. I love turning ideas into **c
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:39FF14,100:FF00FF&height=6&section=footer"/>
 
 ## 🐍 Contributions Snake 
-
 ![Snake animation](https://raw.githubusercontent.com/azpradipta/azpradipta/output/snake-neon.svg)
-
 
 <!-- ====== Neon Divider ====== -->
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00FFFF,100:FF00FF&height=6&section=footer"/>
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/arya-zaky-pradipta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/aryazaky__"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://aryazaky.netlify.app"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=web&logoColor=000"/></a>
+  <a href="https://linkedin.com/in/arya-zaky-pradipta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/aryazaky__"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://aryazaky.netlify.app"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=web&logoColor=000"/></a>
 </p>
 
-<div align="center">
-
-<!-- ====== Neon Footer Wave ====== -->
+<!-- ====== Neon Footer Wave (no text) ====== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:39FF14,100:00FFFF&height=120&section=footer&animation=fadeIn"/>
 </div>
