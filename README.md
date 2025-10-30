@@ -1,10 +1,16 @@
-<!-- Banner animasi atau gambar -->
+<!-- Header animasi -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20I'm%20Pradipta%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
+<div align="center">
+  
 # 💫 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 🎓 Informatics Student at Kalimantan Institute of Technology (ITK)  
 💻 Web Development | Databases | AI | Functional Programming  
 🚀 Currently building **BorneoPadel** (Padel Court Booking System) & **Recruitbot** (AI Voice Interview Assistant)
+
+</div>
 
 ---
 
