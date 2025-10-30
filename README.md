@@ -1,72 +1,112 @@
-<!-- Header Neon -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=200&section=header&text=Welcome%20to%20Pradipta's%20Profile%20👾&fontSize=35&fontColor=ffffff&animation=fadeIn)
-
 <div align="center">
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pradipta+%F0%9F%91%8B;Informatics+Student+%40+ITK;Web+Dev+%7C+Databases+%7C+AI+Enthusiast;Building+BorneoPadel+%26+Recruitbot;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
+<!-- ====== Neon Header Wave with Text Inside ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:39FF14,100:FF00FF&height=180&section=header&text=Arya%20Zaky%20Pradipta%20&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Informatics%20Student%20|%20Web%20Developer%20|%20AI%20Explorer&descAlignY=60&descAlign=50" alt="header"/>
 
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif"/>
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
+<!-- 🟩 Neon Badge Bar (Bold) -->
 <p align="center">
-<img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=node.js&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-00CED1?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue.js-7FFF00?style=for-the-badge&logo=vue.js&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-FF073A?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-9400D3?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-00FA9A?style=for-the-badge&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-FF00FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <!-- Location -->
+  <img src="https://img.shields.io/badge/📍%20Location-30363D?style=for-the-badge&labelColor=30363D&color=30363D"/>
+  <img src="https://img.shields.io/badge/Balikpapan-FF00FF?style=for-the-badge&labelColor=0D1117"/>
+
+  <!-- Focus -->
+  <img src="https://img.shields.io/badge/🎯%20Focus-30363D?style=for-the-badge&labelColor=30363D&color=30363D"/>
+  <img src="https://img.shields.io/badge/Web%20Dev%20%7C%20AI-39FF14?style=for-the-badge&labelColor=0D1117"/>
+
+  <!-- Open To -->
+  <img src="https://img.shields.io/badge/🤝%20Open%20To-30363D?style=for-the-badge&labelColor=30363D&color=30363D"/>
+  <img src="https://img.shields.io/badge/Collaboration-00FFFF?style=for-the-badge&labelColor=0D1117"/>
+
+  <!-- Visitors -->
+  <img src="https://img.shields.io/badge/👁️%20Visitors-30363D?style=for-the-badge&labelColor=30363D&color=30363D"/>
+  <img src="https://img.shields.io/badge/29-FF00FF?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-- 🏟️ **[BorneoPadel](https://github.com/azpradipta/borneopadel)** – RESTful API & booking system  
-- 🤖 **[Recruitbot](https://github.com/azpradipta/recruitbot)** – AI voice interview agent  
-- 🌐 **[Web Portfolio](https://github.com/azpradipta/web-portofolio)** – Personal portfolio  
 
----
-
-## 📊 GitHub Performance
-<div align="center">
-
-![Pradipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=azpradipta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FFFF&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azpradipta&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF&text_color=FFFFFF)
 
 </div>
 
----
+<!-- ====== Neon Divider ====== -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:FF00FF,100:39FF14&height=6&section=footer"/>
 
-## 🌱 Currently Learning
-- 🌐 Advanced Database Management (Procedures, Triggers, REST API)  
-- ⚡ Functional Programming (Lambda Calculus, HOFs, Y-Combinator)  
-- 🤖 AI Voice Agent Integration (Vapi, Supabase, Next.js)  
+## 👨‍💻 About Me
+Hi, I'm **Arya Zaky Pradipta** — Informatics Student at **Institut Teknologi Kalimantan** with a passion for **real-world products**.  
+I focus on **Web Development, Databases, and AI**. I love turning ideas into **clean, scalable, and delightful** experiences.
 
----
+> *"Turning ideas into impactful code is my favorite challenge."*
 
-## 🌐 Let's Connect!
+<!-- ====== Neon Divider ====== -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00FFFF,100:FF00FF&height=6&section=footer"/>
+
+## ⚡ Tech Stack 
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Frameworks & Libraries</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,next,tailwind&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" />
+</p>
+</details>
+
+<!-- ====== Neon Divider ====== -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:39FF14,100:00FFFF&height=6&section=footer"/>
+
+## 📊 GitHub Stats 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=azpradipta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azpradipta&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=azpradipta&theme=highcontrast&hide_border=true&background=00000000&ring=39FF14&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" height="190"/>
+
+</div>
+
+<!-- ====== Neon Divider ====== -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:39FF14,100:FF00FF&height=6&section=footer"/>
+
+## 🐍 Contributions Snake
+![Snake animation](https://raw.githubusercontent.com/azpradipta/azpradipta/output/snake.svg)
+
+<!-- ====== Neon Divider ====== -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00FFFF,100:FF00FF&height=6&section=footer"/>
+
+## 🤝 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/arya-zaky-pradipta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/aryazaky__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://aryazaky.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=web&logoColor=white"/></a>
+<a href="https://instagram.com/aryazaky__"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://aryazaky.netlify.app"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=web&logoColor=000"/></a>
 </p>
 
----
+<div align="center">
 
-## 👀 Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=azpradipta&color=00FFFF&style=flat-square&label=Profile+Views"/>
-</p>
+<!-- ====== Neon Footer Wave ====== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:39FF14,100:00FFFF&height=120&section=footer&animation=fadeIn"/>
+</div>
 
-<!-- Footer Neon -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:39FF14,100:00FFFF&height=120&section=footer)
