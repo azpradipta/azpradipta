@@ -86,7 +86,6 @@ I focus on **Web Development, Databases, and AI**. I love turning ideas into **c
   <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azpradipta&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF" height="170" alt="top-langs" />
 
- <img src="https://github-profile-trophy.vercel.app/?username=azpradipta&theme=matrix&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
 
 
 </div>
