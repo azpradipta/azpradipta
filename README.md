@@ -39,43 +39,6 @@ I focus on **Web Development, Databases, and AI**. I love turning ideas into **c
 <!-- ====== Neon Divider ====== -->
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00FFFF,100:FF00FF&height=6&section=footer"/>
 
-## ⚡ Tech Stack 
-
-<details open>
-<summary><b>🖥️ Languages</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚡ Frameworks & Libraries</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,next,tailwind&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 Tools & DevOps</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" />
-</p>
-</details>
-
-<!-- ====== Neon Divider ====== -->
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:39FF14,100:00FFFF&height=6&section=footer"/>
-
 ## 📊 GitHub Stats 
 
 <div align="center">
