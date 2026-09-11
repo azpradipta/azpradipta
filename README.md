@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/barca-header.svg" alt="header"/>
+<img width="100%" src="./assets/barca-header%20(1).svg" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=EDBB00&center=true&vCenter=true&width=650&lines=Mes+que+un+dev+%F0%9F%94%B5%F0%9F%94%B4;Coding+with+tiki-taka+precision+%E2%9A%BD;Debugging+%3D+my+high+press+%F0%9F%94%A5;Visca+el+Barca%2C+Visca+el+Code+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=EDBB00&center=true&vCenter=true&width=650&lines=Mes+que+un+dev+%F0%9F%94%B5%F0%9F%94%B4;Building+apps+with+tiki-taka;Debugging+is+my+high+press+%F0%9F%94%A5;Visca+el+Barca%2C+Visca+el+Code+%F0%9F%8F%86" alt="Typing SVG" />
 
 <p>
 <a href="https://linkedin.com/in/arya-zaky-pradipta"><img src="https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=EDBB00"/></a>
@@ -27,9 +27,9 @@
 </div>
 
 <div align="center">
-<img width="100%" src="./assets/barca-stats.svg" alt="trophy cabinet"/>
+<img width="100%" src="./assets/barca-stats%20(1).svg" alt="matchday board"/>
 </div>
 
 <div align="center">
-<img width="100%" src="./assets/barca-footer.svg" alt="footer"/>
+<img width="100%" src="./assets/barca-footer%20(1).svg" alt="footer"/>
 </div>
